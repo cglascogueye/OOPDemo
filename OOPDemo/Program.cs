@@ -6,9 +6,11 @@ namespace OOPDemo
     {
         //INHERITANCE
         static void Main(string[] args)
-        {
-          class Avalon : Car
         { }
+          class TinyHouse : House
+        { 
+            
+    }
         }
 
 
@@ -43,4 +45,5 @@ namespace OOPDemo
 
 
 
-}
+
+
